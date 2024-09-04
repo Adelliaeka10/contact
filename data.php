@@ -9,7 +9,7 @@
 
     <body>
         <div class="container mt-5">
-            <h2 class="text-center">Data</h2>
+            <h2 class="text-center">Kumpulan Data Mahasiswa</h2>
 
             <?php
             $servername = "localhost";
